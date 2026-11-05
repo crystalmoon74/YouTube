@@ -1,0 +1,6 @@
+*.mp4
+*.webm
+*.wav
+rec/
+__pycache__/
+.venv/

@@ -1,0 +1,5 @@
+playwright
+imageio-ffmpeg
+numpy
+segno
+opencv-python-headless
